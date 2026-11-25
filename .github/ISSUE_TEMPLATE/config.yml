@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NodeMCP support and private account questions
+    url: https://nodemcp.dev/
+    about: Use official support for billing, authentication, private logs and device-account problems.
+  - name: Report a security vulnerability privately
+    url: https://github.com/nodemcp/nodemcp/blob/main/SECURITY.md
+    about: Do not disclose a security flaw or private credentials in a public issue.

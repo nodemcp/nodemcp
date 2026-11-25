@@ -1,0 +1,29 @@
+name: Documentation correction
+description: Report missing, outdated or confusing public NodeMCP documentation.
+title: "docs: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not include tokens, pairing codes, customer data, device IDs or private logs."
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      placeholder: "URL or path to the documentation"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correcting?
+      description: Describe the issue and a suggested improvement.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional public context
+      description: Optional, sanitized context only.
+    validations:
+      required: false
