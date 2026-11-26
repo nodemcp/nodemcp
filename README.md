@@ -66,6 +66,21 @@ You can also explore [Linux server troubleshooting](https://nodemcp.dev/use-case
 - [Support](SUPPORT.md) · [Report a security concern](SECURITY.md)
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/dev.nodemcp%2Fnodemcp/versions/latest)
 
+## Registries & directories
+
+Find NodeMCP in the official MCP Registry and independent MCP directories.
+
+[![Listed on MCP Harbor](https://mcpharbor.app/badge/registry-dev-nodemcp-nodemcp.svg)](https://mcpharbor.app/tools/registry-dev-nodemcp-nodemcp/)
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/dev.nodemcp%2Fnodemcp/versions/latest) — published server metadata (`dev.nodemcp/nodemcp`).
+- [Glama](https://glama.ai/mcp/connectors/dev.nodemcp/nodemcp) — remote MCP connector listing.
+- [mcptry](https://mcptry.com/servers/dev.nodemcp/nodemcp) — server listing.
+- [MCP Servers](https://mcpservers.org/servers/nodemcp-dev-remote-mcp-server) — hosted MCP server listing.
+- [MCP Harbor](https://mcpharbor.app/tools/registry-dev-nodemcp-nodemcp/) — server directory listing.
+- [MCP Lantern](https://mcplantern.com/server/sub_02a04364e2c0) — remote MCP server listing.
+
+Directory inclusion does not imply endorsement, security certification or unrestricted access. NodeMCP requires authentication and device authorization.
+
 ### About this repository
 
 This repository is the **official public documentation and integration-example home** for the hosted NodeMCP service. **It is not a source-code distribution of the NodeMCP gateway or proprietary device agents.** No open-source software license is implied for the service. Public documentation and examples may be updated independently of agent releases.
